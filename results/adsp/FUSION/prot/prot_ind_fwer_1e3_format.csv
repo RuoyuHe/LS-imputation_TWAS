@@ -1,0 +1,26 @@
+protein_name,gene_names,chr,start,end,ADSP,LS-imp IGAP,LS-imp EADB,AD Proxy,LS-imp Combined,TWAS-L,TWAS-LQ
+APOE,Apolipoprotein E,19,45409011,45412650,0.00e+00,0.00e+00,0.00e+00,0.00e+00,0.00e+00,5.40e-112,1.84e-121
+CR1,Complement receptor type 1,1,207669492,207813992,1.15e-03,3.15e-05,1.91e-06,2.09e-02,5.39e-06,3.72e-08,2.64e-07
+SUMF2,Inactive C-alpha-formylglycine-generating enzyme 2,7,56131695,56148363,1.33e-03,5.03e-05,1.22e-04,6.14e-03,1.06e-04,8.90e-03,1.14e-02
+CD276,CD276 antigen,15,73976307,74006859,4.83e-02,2.89e-01,1.56e-04,1.17e-03,4.13e-04,6.33e-01,2.91e-01
+PILRB,Paired immunoglobulin-like type 2 receptor beta,7,99933737,99965356,6.69e-02,2.92e-04,5.89e-04,9.52e-02,5.85e-04,8.21e-04,7.30e-04
+APOC1,Apolipoprotein C-I,19,45417504,45422606,1.38e-03,3.46e-04,4.98e-02,2.52e-03,9.07e-04,5.10e-04,1.96e-03
+CLPS,Colipase,6,35762759,35765088,6.14e-01,1.98e-03,3.03e-02,5.02e-04,1.19e-03,1.61e-01,3.12e-01
+CTSH,Pro-cathepsin H,15,79213400,79241916,2.39e-02,4.10e-04,1.20e-02,5.88e-01,1.19e-03,1.14e-02,2.07e-03
+VSIG10L,V-set and immunoglobulin domain-containing protein 10-like,19,51834790,51845378,9.62e-03,1.60e-03,9.21e-04,1.70e-03,1.31e-03,4.29e-04,1.17e-03
+KAZALD1,Kazal-type serine protease inhibitor domain-containing protein 1,10,102821598,102827888,5.09e-01,5.66e-02,5.50e-01,4.43e-04,1.32e-03,4.15e-01,7.14e-01
+CEACAM19,Carcinoembryonic antigen-related cell adhesion molecule 19,19,45165545,45187631,6.83e-02,7.06e-01,3.80e-03,5.02e-04,1.33e-03,8.02e-04, NA
+MMP13,Collagenase 3,11,102813724,102826463,3.51e-01,4.43e-02,2.96e-02,5.90e-04,1.71e-03,7.09e-02,1.73e-01
+APOL1,Apolipoprotein L1,22,36649056,36663576,2.84e-02,9.10e-04,8.47e-01,2.73e-03,2.06e-03,2.83e-03,1.00e-02
+PINLYP,phospholipase A2 inhibitor and Ly6/PLAUR domain-containing protein,19,44080952,44088116,9.47e-02,3.25e-03,2.68e-01,1.88e-02,8.25e-03,3.59e-04,1.23e-03
+ERBB3,Receptor tyrosine-protein kinase erbB-3,12,56473641,56497289,5.57e-02,8.57e-03,4.61e-02,4.34e-02,1.86e-02,4.60e-06,2.33e-05
+PILRA,Paired immunoglobulin-like type 2 receptor alpha,7,99965153,99997719,2.08e-03,1.84e-02,3.85e-02,2.73e-02,2.57e-02,7.59e-04,3.38e-05
+ADAM9,Disintegrin and metalloproteinase domain-containing protein 9,8,38854388,38962663,4.71e-04,3.42e-02,2.57e-01,3.24e-02,4.74e-02,3.59e-02, NA
+VSIG10,V-set and immunoglobulin domain-containing protein 10,12,118501398,118573831,2.64e-04,5.21e-01,2.20e-02,1.54e-01,5.81e-02,5.01e-01,1.98e-01
+LCN15,Lipocalin-15,9,139654086,139660707,7.69e-03,6.59e-02,1.88e-01,3.58e-02,6.23e-02,2.33e-03,4.06e-06
+GRP,Gastrin-releasing peptide,18,56887400,56898006,1.45e-02,1.54e-01,6.02e-01,3.79e-02,9.34e-02,6.23e-04,1.75e-03
+TNFSF13,Tumor necrosis factor ligand superfamily member 13,17,7461609,7464925,4.28e-01,3.27e-01,8.12e-02,4.95e-01,1.89e-01,1.12e-04,4.32e-04
+BMP10,Bone morphogenetic protein 10,2,69092613,69098649,3.13e-01,2.35e-01,2.76e-01,1.73e-01,2.21e-01,4.12e-03,7.06e-04
+ENTPD6,Ectonucleoside triphosphate diphosphohydrolase 6,20,25176329,25207365,4.07e-04,1.67e-01,2.15e-01,3.23e-01,2.21e-01,2.04e-02,4.69e-02
+TEK,Angiopoietin-1 receptor,9,27109139,27230173,4.04e-04,2.18e-01,5.99e-01,1.80e-01,2.80e-01,1.12e-01,2.16e-01
+GFRAL,GDNF family receptor alpha-like,6,55192267,55267291,2.46e-04,3.18e-01,5.05e-01,5.25e-01,4.43e-01,3.82e-01,6.40e-01

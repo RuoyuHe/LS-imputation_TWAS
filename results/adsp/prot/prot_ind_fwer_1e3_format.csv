@@ -1,0 +1,24 @@
+protein_name,gene_names,chr,start,end,ADSP,LS-imp IGAP,LS-imp EADB,AD Proxy,LS-imp Combined,TWAS-L,TWAS-LQ
+APOE,Apolipoprotein E,19,45409011,45412650,0.00e+00,0.00e+00,0.00e+00,0.00e+00,0.00e+00,2.07e-44,6.16e-45
+RARRES2,Retinoic acid receptor responder protein 2,7,150035408,150038763,4.80e-03,4.68e-05,1.50e-03,9.02e-10,2.71e-09,8.33e-04,3.75e-03
+BCAM,Basal cell adhesion molecule,19,45312328,45324673,9.62e-05,9.14e-02,5.56e-01,2.43e-09,7.30e-09,4.01e-08,6.01e-24
+APOC1,Apolipoprotein C-I,19,45417504,45422606,2.42e-05,1.23e-07,2.38e-02,1.51e-05,3.65e-07,7.21e-07,8.79e-14
+CR1,Complement receptor type 1,1,207669492,207813992,4.73e-03,5.21e-06,1.47e-05,1.15e-03,1.15e-05,2.00e-06,9.81e-06
+TNFSF14,Tumor necrosis factor ligand superfamily member 14,19,6663148,6670599,1.06e-01,2.72e-05,8.66e-01,7.98e-03,8.13e-05,6.85e-01,2.81e-02
+NECTIN2,Nectin-2,19,45349432,45392485,5.58e-02,5.60e-04,3.83e-04,5.73e-04,4.89e-04,3.80e-03,2.89e-03
+FABP6,Gastrotropin,5,159614374,159665742,1.08e-01,3.78e-04,2.21e-03,2.42e-02,9.56e-04,3.46e-04,1.59e-03
+SCAMP3,Secretory carrier-associated membrane protein 3,1,155225770,155232221,1.70e-02,8.60e-04,9.99e-04,1.79e-03,1.10e-03,1.06e-03, NA
+SERPINB1,Leukocyte elastase inhibitor,6,2832566,2842240,5.12e-02,1.46e-01,6.45e-04,4.01e-01,1.93e-03,1.76e-01,8.52e-02
+LCN15,Lipocalin-15,9,139654086,139660707,3.89e-03,1.50e-03,3.98e-03,2.02e-03,2.13e-03,1.59e-04,7.99e-04
+TNFSF13,Tumor necrosis factor ligand superfamily member 13,17,7461609,7464925,2.19e-02,2.96e-01,4.84e-02,7.25e-04,2.14e-03,1.14e-04,5.81e-04
+TBC1D17,TBC1 domain family member 17,19,50380682,50392005,8.98e-01,1.05e-02,5.62e-03,9.88e-04,2.33e-03,1.51e-02,5.22e-02
+CA13,Carbonic anhydrase 13,8,86132816,86196302,3.47e-01,7.41e-03,2.77e-03,1.51e-03,2.59e-03,7.01e-04,3.27e-07
+SCARF1,Scavenger receptor class F member 1,17,1537152,1549041,1.45e-02,1.64e-01,1.40e-01,1.95e-03,5.72e-03,4.38e-04,1.96e-03
+TBCA,Tubulin-specific chaperone A,5,76986991,77164604,4.98e-02,1.00e-02,2.54e-02,3.48e-03,7.03e-03,8.81e-04,2.49e-04
+CHMP1A,Charged multivesicular body protein 1a,16,89710839,89724253,9.49e-02,1.64e-02,1.04e-02,1.82e-02,1.42e-02,3.32e-03,8.44e-06
+SGSH,N-sulphoglucosamine sulphohydrolase,17,78180515,78194722,5.41e-05,3.44e-02,9.50e-03,2.30e-02,1.69e-02,2.48e-02,1.71e-03
+ADAMTS13,A disintegrin and metalloproteinase with thrombospondin motifs 13,9,136279478,136324508,6.51e-03,4.32e-02,7.67e-03,2.88e-01,1.92e-02,3.42e-02,2.60e-04
+CELA3A,Chymotrypsin-like elastase family member 3A,1,22328149,22339032,6.66e-04,2.24e-01,2.76e-02,6.18e-02,5.33e-02,5.71e-01,7.15e-01
+CTSH,Pro-cathepsin H,15,79213400,79241916,1.31e-02,8.43e-01,3.74e-02,5.02e-01,1.36e-01,4.12e-03,9.03e-04
+ACE,Angiotensin-converting enzyme,17,61554422,61599205,1.27e-01,8.09e-01,1.09e-01,8.82e-02,1.76e-01,9.79e-04,2.84e-03
+UBE2L6,Ubiquitin/ISG15-conjugating enzyme E2 L6,11,57319129,57335757,8.74e-04,9.86e-01,9.80e-01,9.17e-01,9.77e-01,8.56e-01,2.09e-02

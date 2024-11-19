@@ -1,0 +1,9 @@
+protein_name,gene_names,chr,start,end,ADSP,LS-imp IGAP,LS-imp EADB,AD Proxy,LS-imp Combined,TWAS-L,TWAS-LQ
+APOC1,Apolipoprotein C-I,19,45417504,45422606,2.42e-05,1.23e-07,2.38e-02,1.51e-05,3.65e-07,7.21e-07,8.79e-14
+APOE,Apolipoprotein E,19,45409011,45412650,0.00e+00,0.00e+00,0.00e+00,0.00e+00,0.00e+00,2.07e-44,6.16e-45
+BCAM,Basal cell adhesion molecule,19,45312328,45324673,9.62e-05,9.14e-02,5.56e-01,2.43e-09,7.30e-09,4.01e-08,6.01e-24
+CA13,Carbonic anhydrase 13,8,86132816,86196302,3.47e-01,7.41e-03,2.77e-03,1.51e-03,2.59e-03,7.01e-04,3.27e-07
+CHMP1A,Charged multivesicular body protein 1a,16,89710839,89724253,9.49e-02,1.64e-02,1.04e-02,1.82e-02,1.42e-02,3.32e-03,8.44e-06
+CR1,Complement receptor type 1,1,207669492,207813992,4.73e-03,5.21e-06,1.47e-05,1.15e-03,1.15e-05,2.00e-06,9.81e-06
+RARRES2,Retinoic acid receptor responder protein 2,7,150035408,150038763,4.80e-03,4.68e-05,1.50e-03,9.02e-10,2.71e-09,8.33e-04,3.75e-03
+TNFSF14,Tumor necrosis factor ligand superfamily member 14,19,6663148,6670599,1.06e-01,2.72e-05,8.66e-01,7.98e-03,8.13e-05,6.85e-01,2.81e-02

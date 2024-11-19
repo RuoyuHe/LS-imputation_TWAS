@@ -1,0 +1,6 @@
+protein_name,gene_names,chr,start,end,ADSP,LS-imp IGAP,LS-imp EADB,AD Proxy,LS-imp Combined,TWAS-L,TWAS-LQ
+APOE,Apolipoprotein E,19,45409011,45412650,0.00e+00,0.00e+00,0.00e+00,0.00e+00,0.00e+00,5.40e-112,1.84e-121
+CR1,Complement receptor type 1,1,207669492,207813992,1.15e-03,3.15e-05,1.91e-06,2.09e-02,5.39e-06,3.72e-08,2.64e-07
+ERBB3,Receptor tyrosine-protein kinase erbB-3,12,56473641,56497289,5.57e-02,8.57e-03,4.61e-02,4.34e-02,1.86e-02,4.60e-06,2.33e-05
+LCN15,Lipocalin-15,9,139654086,139660707,7.69e-03,6.59e-02,1.88e-01,3.58e-02,6.23e-02,2.33e-03,4.06e-06
+PILRA,Paired immunoglobulin-like type 2 receptor alpha,7,99965153,99997719,2.08e-03,1.84e-02,3.85e-02,2.73e-02,2.57e-02,7.59e-04,3.38e-05
